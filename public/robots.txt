@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Sitemap: https://justgostudy.academy/sitemap.xml
+
+Disallow: /student/
+Disallow: /agent/
+Disallow: /university/dashboard
+Disallow: /university/courses
+Disallow: /university/applications
+Disallow: /university/profile
+Disallow: /admin/
+Disallow: /super-admin/
+Disallow: /educator/
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /verify-email
+Disallow: /profile/
+Disallow: /language-club/profile
